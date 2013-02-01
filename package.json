@@ -1,0 +1,24 @@
+{
+  "name": "test-facebook-app",
+  "version": "0.0.0",
+  "description": "trying out building a facebook app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gazebo-Prime/test-facebook-app"
+  },
+  "keywords": [
+    "facebook"
+  ],
+  "author": "Claytoad",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "06b74658d5025ae481734bd05b33343f5cde6a39",
+  "dependencies": {
+    "connect": "~2.7.2",
+    "connect-router": "0.0.2"
+  }
+}
